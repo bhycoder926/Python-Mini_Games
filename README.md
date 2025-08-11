@@ -8,6 +8,7 @@ A collection of fun beginner-level games built in Python to practice logic, loop
 | 1   | Treasure Island    | A text-based adventure game where you make choices to find the treasure. |
 | 2   | Banker Roulette    | Randomly selects a person from a list to pay the bill. |
 | 3   | Rock Paper Scissors| Classic rock-paper-scissors game against the computer. |
+| 4   | Number guessing game | A simple number guessing game with computer. |
 
 ## How to Run
 1. Clone this repository:
